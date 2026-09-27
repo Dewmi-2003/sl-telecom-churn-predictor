@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model artifacts (optional - keep small ones if you want live demos, ignore large ones)
+# *.pkl
+
+# OS specific files
+.DS_Store
+Thumbs.db

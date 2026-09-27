@@ -1,0 +1,1001 @@
+Tenure_Months,Monthly_Bill_LKR,Support_Tickets_30d,Connection_Type,Payment_Method,Churn
+52,10484.812915116001,2,Fibre,Bank Direct Debit,0
+15,10217.308577953412,3,Fibre,Bank Direct Debit,1
+61,5670.427060993776,3,Fibre,Bank Direct Debit,0
+21,8514.893933991785,1,Postpaid Mobile,Bank Direct Debit,1
+24,3652.33510186612,3,Fibre,Bank Direct Debit,1
+3,4578.051167740639,1,4G Home Broadband,Bank Direct Debit,1
+22,10911.526094471757,3,Fibre,Over the Counter / Cash,1
+53,1636.5201968627284,4,Fibre,Over the Counter / Cash,0
+2,2397.839573971915,2,Postpaid Mobile,Bank Direct Debit,1
+30,3682.8056790332867,3,Fibre,Bank Direct Debit,0
+38,1778.588140675107,3,Postpaid Mobile,Over the Counter / Cash,0
+2,3405.0720684428716,3,Fibre,Over the Counter / Cash,1
+64,7621.936390181768,3,4G Home Broadband,Over the Counter / Cash,0
+60,5924.957781221228,1,4G Home Broadband,Bank Direct Debit,0
+21,10873.052966308236,0,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+33,10083.15739825363,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+58,5089.082192827698,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+22,4223.946051028572,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+49,5486.770285756303,1,Fibre,Bank Direct Debit,0
+59,7698.096896405481,5,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+42,4314.668228640201,1,Fibre,Over the Counter / Cash,0
+60,8053.5635324159075,2,Fibre,Over the Counter / Cash,0
+15,5798.822348008024,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+62,7296.495398945793,1,Fibre,Over the Counter / Cash,0
+62,6079.328555920825,0,Postpaid Mobile,Bank Direct Debit,0
+47,4591.8904751901355,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+62,11458.759723102645,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+51,9517.860838677489,2,Postpaid Mobile,Bank Direct Debit,0
+55,2971.188345547752,3,Fibre,Over the Counter / Cash,0
+64,10618.913746928085,3,Fibre,Bank Direct Debit,0
+3,6618.027581619894,0,4G Home Broadband,Bank Direct Debit,1
+51,10892.79838238796,3,Fibre,Over the Counter / Cash,0
+7,9898.48018744681,1,4G Home Broadband,Bank Direct Debit,1
+21,5964.741796926951,1,Postpaid Mobile,Over the Counter / Cash,0
+39,1735.9277373612326,3,4G Home Broadband,Over the Counter / Cash,1
+18,4321.112273541934,0,Fibre,Bank Direct Debit,0
+4,7187.159253939102,1,Postpaid Mobile,Over the Counter / Cash,1
+60,8151.521308174546,2,4G Home Broadband,Bank Direct Debit,0
+14,4207.820697048624,2,4G Home Broadband,Over the Counter / Cash,1
+9,2963.2387777646536,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+53,10266.76748639264,1,Postpaid Mobile,Over the Counter / Cash,0
+2,11836.222897387297,0,4G Home Broadband,Over the Counter / Cash,1
+60,7019.746914178201,1,4G Home Broadband,Bank Direct Debit,0
+71,3302.6325014071867,2,Postpaid Mobile,Over the Counter / Cash,0
+44,4359.226928453374,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+8,1693.1021037484006,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+47,11100.13746888524,1,Postpaid Mobile,Over the Counter / Cash,0
+35,2736.386370346482,3,Fibre,Over the Counter / Cash,0
+36,7553.422992899662,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+50,4377.579817215663,3,Postpaid Mobile,Bank Direct Debit,0
+4,7318.86902641583,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+2,8339.914077694575,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+6,10212.288938925618,2,Postpaid Mobile,Over the Counter / Cash,1
+54,3667.423353486334,1,Postpaid Mobile,Over the Counter / Cash,0
+4,1615.456200914045,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+54,2937.2991157224765,2,Fibre,Bank Direct Debit,0
+63,10950.195739405104,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+18,10675.84581440641,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+44,7772.837572788237,2,4G Home Broadband,Bank Direct Debit,1
+34,7805.4270345533605,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+62,8482.885082735684,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+14,3341.398425546221,1,4G Home Broadband,Over the Counter / Cash,1
+48,11101.325432212077,2,Fibre,Bank Direct Debit,0
+15,5897.090511366768,4,4G Home Broadband,Over the Counter / Cash,1
+62,5522.954546619723,2,4G Home Broadband,Over the Counter / Cash,0
+40,6948.635905469794,0,Fibre,Bank Direct Debit,0
+53,1993.142651138078,3,Fibre,Bank Direct Debit,0
+24,3245.9753719388336,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+26,9249.352972476889,5,4G Home Broadband,Over the Counter / Cash,1
+60,2369.386013213828,2,Fibre,Bank Direct Debit,0
+41,7833.0971493970765,3,Postpaid Mobile,Over the Counter / Cash,0
+29,4076.16565165387,2,4G Home Broadband,Over the Counter / Cash,1
+15,5587.6039474407535,5,Postpaid Mobile,Bank Direct Debit,1
+45,4531.284236092349,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+65,5234.5635228819665,2,4G Home Broadband,Over the Counter / Cash,0
+71,9049.982004434578,1,Postpaid Mobile,Bank Direct Debit,0
+9,4619.778014043338,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+1,7447.248723117421,6,4G Home Broadband,Over the Counter / Cash,1
+8,6498.529223090546,1,Fibre,Bank Direct Debit,1
+63,8468.547236307804,2,4G Home Broadband,Over the Counter / Cash,0
+11,11336.71226290996,0,Fibre,Bank Direct Debit,1
+8,9192.007020707628,4,Fibre,Bank Direct Debit,1
+35,3756.873975202946,2,Fibre,Over the Counter / Cash,0
+35,1827.4229181434891,3,Fibre,Over the Counter / Cash,0
+33,4253.772465148164,3,Postpaid Mobile,Bank Direct Debit,0
+5,7748.318272352676,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+41,2039.9710415846287,2,4G Home Broadband,Over the Counter / Cash,0
+28,6711.845595612982,1,Postpaid Mobile,Bank Direct Debit,0
+7,7766.849913627337,2,4G Home Broadband,Bank Direct Debit,1
+12,5009.560853578088,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+34,9594.57813933113,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+33,2619.281657904604,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+48,2288.946708225992,2,4G Home Broadband,Over the Counter / Cash,0
+23,9145.981940137835,3,4G Home Broadband,Bank Direct Debit,1
+62,6702.658820165084,2,Postpaid Mobile,Bank Direct Debit,0
+37,8728.225162491228,0,4G Home Broadband,Bank Direct Debit,0
+44,6065.6870553393355,4,Fibre,eZ Cash / Frimi / e-Wallet,0
+35,4087.2213490106215,3,4G Home Broadband,Bank Direct Debit,1
+65,10100.574335579096,2,Fibre,Over the Counter / Cash,0
+47,9893.866729174282,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+3,8794.312943971481,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+1,4357.523940914609,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+5,7697.422002125414,4,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+14,5290.225917870281,3,4G Home Broadband,Over the Counter / Cash,1
+27,2461.6117699296583,4,Fibre,Bank Direct Debit,1
+9,11131.792542353549,1,4G Home Broadband,Over the Counter / Cash,1
+15,2936.595624649095,2,Postpaid Mobile,Bank Direct Debit,1
+42,11477.492215118426,1,Fibre,Over the Counter / Cash,0
+51,6183.060616058535,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+63,3443.895752805506,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+52,7189.95994747276,1,4G Home Broadband,Over the Counter / Cash,0
+4,10665.931276702288,5,Postpaid Mobile,Over the Counter / Cash,1
+23,9188.361307300393,0,Fibre,Bank Direct Debit,0
+15,9968.892052545221,2,4G Home Broadband,Over the Counter / Cash,1
+43,8417.225350462533,4,Fibre,Over the Counter / Cash,1
+29,8768.903927437452,2,4G Home Broadband,Bank Direct Debit,1
+36,10416.554341435853,0,4G Home Broadband,Bank Direct Debit,1
+13,4121.514093021453,5,4G Home Broadband,Bank Direct Debit,1
+32,6638.962118252975,2,Fibre,Over the Counter / Cash,0
+71,3822.699139105823,4,Fibre,Bank Direct Debit,0
+59,11870.514083964794,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+28,11412.623066709439,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+66,1913.9815193693119,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+42,8908.53931141473,5,Postpaid Mobile,Over the Counter / Cash,1
+45,11215.10733286449,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+62,3396.041123837002,1,4G Home Broadband,Over the Counter / Cash,0
+57,7463.424920802609,1,Postpaid Mobile,Over the Counter / Cash,0
+6,11112.62712467444,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+28,1856.432775150888,2,Postpaid Mobile,Bank Direct Debit,0
+28,8822.91280609182,1,4G Home Broadband,Over the Counter / Cash,1
+44,4622.164577411782,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+30,11206.16005145357,1,Fibre,Over the Counter / Cash,1
+62,11696.111574236362,0,4G Home Broadband,Bank Direct Debit,0
+62,11414.798135691057,3,Fibre,Bank Direct Debit,0
+1,6479.24927490337,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+27,10551.447835387791,0,4G Home Broadband,Over the Counter / Cash,1
+62,10367.768684618239,1,4G Home Broadband,Over the Counter / Cash,0
+3,4850.554969054185,3,4G Home Broadband,Over the Counter / Cash,1
+70,10203.612478582112,2,Fibre,Over the Counter / Cash,0
+27,1888.5801645126726,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+9,7760.8337240615565,3,4G Home Broadband,Bank Direct Debit,1
+62,3915.092791520882,4,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+37,2765.952300661427,0,4G Home Broadband,Over the Counter / Cash,0
+51,2308.008617106696,1,Postpaid Mobile,Over the Counter / Cash,0
+44,8811.032146720467,1,4G Home Broadband,Bank Direct Debit,1
+24,5068.6871195646945,2,4G Home Broadband,Over the Counter / Cash,1
+59,9110.051101051995,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+32,2186.2415783888946,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+52,4810.548547221409,2,4G Home Broadband,Bank Direct Debit,0
+62,7164.658569941041,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+58,9802.593230809118,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+52,4846.901280786734,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+12,8071.859452588596,5,Fibre,eZ Cash / Frimi / e-Wallet,1
+39,10802.766356479964,1,4G Home Broadband,Over the Counter / Cash,1
+2,7966.563475914198,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+3,3946.0744849131547,0,Postpaid Mobile,Bank Direct Debit,1
+56,1756.2082063436492,1,Fibre,Bank Direct Debit,0
+59,10636.038175959764,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+2,1723.3288139290648,0,4G Home Broadband,Bank Direct Debit,1
+2,10684.367563184094,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+54,7053.8399072857255,4,4G Home Broadband,Bank Direct Debit,1
+1,11360.21083438541,2,Fibre,Bank Direct Debit,1
+19,9887.223975623487,5,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+2,11978.308160600043,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+53,5182.474062242956,3,Postpaid Mobile,Over the Counter / Cash,0
+44,9555.477033776831,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+32,5720.274592897043,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+70,6538.694013191043,0,Fibre,Over the Counter / Cash,0
+32,8088.807363792886,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+68,10673.609698956558,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+55,11832.876426592598,3,4G Home Broadband,Over the Counter / Cash,1
+56,9566.870845577441,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+17,5886.551212757005,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+38,5924.248523909237,3,Fibre,Over the Counter / Cash,0
+24,9244.614166683361,0,4G Home Broadband,Over the Counter / Cash,1
+69,4007.1600305671745,1,4G Home Broadband,Bank Direct Debit,0
+70,2659.978187879644,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+11,5223.532655228153,2,Fibre,Bank Direct Debit,1
+16,4516.009412367858,1,Postpaid Mobile,Bank Direct Debit,0
+59,4611.235264787896,4,4G Home Broadband,Over the Counter / Cash,0
+70,3952.8813860240543,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+3,1941.9784911817997,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+20,1687.676314700845,1,4G Home Broadband,Over the Counter / Cash,1
+59,11871.085092228332,4,4G Home Broadband,Bank Direct Debit,1
+36,5991.617904226555,1,Fibre,Over the Counter / Cash,0
+19,5535.4297951766575,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+67,8636.296468277233,1,Postpaid Mobile,Over the Counter / Cash,0
+19,3791.665822583174,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+20,11474.592431477366,1,Fibre,Bank Direct Debit,1
+71,9756.622651363297,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+52,2438.8155242787248,5,4G Home Broadband,Bank Direct Debit,1
+33,5884.598145741747,1,Fibre,Bank Direct Debit,0
+40,10730.74222940273,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+39,11419.686234059807,5,Fibre,eZ Cash / Frimi / e-Wallet,1
+1,6407.715868123632,1,Fibre,Bank Direct Debit,1
+11,7940.8195867124305,4,Fibre,Over the Counter / Cash,1
+57,3253.85643396679,4,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+50,11907.270574438253,1,Fibre,Bank Direct Debit,0
+23,3932.5528645261556,2,Fibre,Bank Direct Debit,0
+31,11398.68362841882,3,4G Home Broadband,Over the Counter / Cash,1
+42,8321.28981441987,6,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+7,7881.236346228021,0,Fibre,Bank Direct Debit,1
+16,6883.22936567334,4,4G Home Broadband,Over the Counter / Cash,1
+60,3922.033023036466,3,Fibre,Bank Direct Debit,0
+2,3353.5443360578365,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+1,3815.105195236841,4,4G Home Broadband,Over the Counter / Cash,1
+48,3457.6017525146726,1,4G Home Broadband,Bank Direct Debit,0
+12,9685.63697245091,2,Fibre,Over the Counter / Cash,1
+69,5176.315221250667,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+37,2107.348103915662,4,Fibre,Over the Counter / Cash,0
+32,11675.577616478518,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+9,10779.75179211597,6,Fibre,Bank Direct Debit,1
+19,11241.398973549736,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+48,11946.53213778757,2,Postpaid Mobile,Bank Direct Debit,0
+3,3325.9001168046166,1,Postpaid Mobile,Bank Direct Debit,1
+20,5660.541198477917,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+24,9461.503994892959,3,4G Home Broadband,Bank Direct Debit,1
+54,8808.216489564818,3,4G Home Broadband,Over the Counter / Cash,1
+33,3115.907016568478,0,Fibre,Bank Direct Debit,0
+24,10066.247812401487,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+36,3856.626004284937,1,4G Home Broadband,Over the Counter / Cash,0
+38,3850.0849556375424,4,4G Home Broadband,Over the Counter / Cash,1
+25,7138.231440380842,1,4G Home Broadband,Bank Direct Debit,1
+18,7725.869315837883,4,Fibre,Bank Direct Debit,1
+66,7590.905182297018,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+54,2460.6117926764264,3,Postpaid Mobile,Over the Counter / Cash,0
+35,10713.339057618994,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+61,4288.800447181414,2,4G Home Broadband,Bank Direct Debit,0
+41,2859.906673469444,4,Postpaid Mobile,Over the Counter / Cash,0
+33,10831.85483862426,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+68,11534.34073141241,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+33,10552.339981287232,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+14,9999.91878461122,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+21,8380.040796709727,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+48,7284.002391395963,2,4G Home Broadband,Over the Counter / Cash,0
+20,2413.3609790698065,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+8,5788.758737242337,2,Fibre,Over the Counter / Cash,1
+7,5413.229428629296,0,Fibre,eZ Cash / Frimi / e-Wallet,1
+67,4227.414729483426,1,Postpaid Mobile,Bank Direct Debit,0
+17,9095.911193730142,4,Fibre,Bank Direct Debit,1
+33,6706.695218327093,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+48,2350.9852670303035,2,Fibre,Bank Direct Debit,0
+59,3811.923620473019,2,4G Home Broadband,Over the Counter / Cash,0
+22,8674.217018425757,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+30,2299.374024648152,5,4G Home Broadband,Over the Counter / Cash,1
+38,10437.672597512072,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+51,6699.038533646731,2,4G Home Broadband,Bank Direct Debit,0
+54,6546.159061929804,3,4G Home Broadband,Over the Counter / Cash,0
+8,7720.281738924935,1,4G Home Broadband,Bank Direct Debit,1
+27,10159.150142214066,2,Postpaid Mobile,Bank Direct Debit,1
+27,5151.996682973027,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+21,8619.169601870168,3,Postpaid Mobile,Over the Counter / Cash,1
+30,7440.185621955806,2,4G Home Broadband,Bank Direct Debit,1
+28,4303.7968367789235,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+64,10725.614856729158,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+69,9872.973226872746,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+61,8413.744263913468,1,Postpaid Mobile,Bank Direct Debit,0
+48,10431.108155489539,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+19,10606.589110077924,0,4G Home Broadband,Over the Counter / Cash,1
+4,8937.811255507866,2,Fibre,Over the Counter / Cash,1
+35,10288.639947818556,0,Fibre,Bank Direct Debit,0
+64,8823.45034752748,1,4G Home Broadband,Over the Counter / Cash,0
+49,8641.478103483154,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+17,7995.419471259435,0,Fibre,Bank Direct Debit,1
+44,9403.524715355234,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+30,3165.353605577274,2,Fibre,Bank Direct Debit,0
+46,10749.142971588748,4,Fibre,Bank Direct Debit,1
+6,10654.357041324936,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+37,1807.096471862871,0,Fibre,Over the Counter / Cash,0
+24,10171.075880930008,2,Postpaid Mobile,Over the Counter / Cash,1
+46,2853.1336084711747,1,Fibre,Bank Direct Debit,0
+53,5018.74796972099,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+60,9306.836691061882,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+63,3187.978908507236,0,4G Home Broadband,Bank Direct Debit,0
+32,10088.653753250153,4,4G Home Broadband,Over the Counter / Cash,1
+33,10237.40886855629,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+67,6828.41120448878,1,Fibre,Over the Counter / Cash,0
+18,1567.0516530267525,1,Fibre,Over the Counter / Cash,0
+25,4513.900398336584,3,4G Home Broadband,Bank Direct Debit,1
+54,7977.732642945293,6,Postpaid Mobile,Bank Direct Debit,1
+58,11802.454869287947,1,Postpaid Mobile,Over the Counter / Cash,0
+67,8134.042033675018,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+46,4227.937601173678,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+24,8157.059882545919,3,Postpaid Mobile,Bank Direct Debit,1
+32,7169.846487016483,1,Fibre,Over the Counter / Cash,0
+47,9688.376649087008,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+23,2623.2967076830632,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+66,9490.792976271294,1,Postpaid Mobile,Bank Direct Debit,0
+27,7183.299076099158,2,4G Home Broadband,Over the Counter / Cash,1
+2,11611.416040519443,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+17,5089.657743406204,2,4G Home Broadband,Bank Direct Debit,1
+33,8142.529877906455,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+9,11286.295107855183,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+43,2576.3521439021324,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+48,11340.899115982736,1,Fibre,Bank Direct Debit,0
+39,8722.80008415854,5,4G Home Broadband,Over the Counter / Cash,1
+42,2212.289120604305,3,4G Home Broadband,Bank Direct Debit,1
+26,4660.117452941571,3,Postpaid Mobile,Over the Counter / Cash,1
+50,8935.806930775456,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+25,2207.1813154221027,2,4G Home Broadband,Over the Counter / Cash,1
+24,7612.78983185087,7,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+13,5131.772098006046,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+60,8019.612936558509,2,Fibre,Bank Direct Debit,0
+7,1980.291355031385,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+57,10651.136464599951,0,Fibre,Bank Direct Debit,0
+36,11721.634176362668,2,Postpaid Mobile,Over the Counter / Cash,1
+45,11673.217480499761,2,4G Home Broadband,Over the Counter / Cash,1
+20,9371.34423330071,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+65,2865.9055213716356,1,Postpaid Mobile,Bank Direct Debit,0
+8,9461.763557254737,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+16,1758.162622817416,1,Postpaid Mobile,Bank Direct Debit,0
+14,1732.297291054471,2,4G Home Broadband,Bank Direct Debit,1
+15,4897.907301070183,2,Postpaid Mobile,Bank Direct Debit,1
+66,6630.75349924899,5,Fibre,Over the Counter / Cash,0
+32,9589.277886981828,2,Postpaid Mobile,Bank Direct Debit,1
+63,8674.601454368305,2,Fibre,Over the Counter / Cash,0
+51,6181.978416955858,1,Fibre,Bank Direct Debit,0
+25,4373.0799959574915,1,4G Home Broadband,Over the Counter / Cash,1
+58,11969.807251655968,0,Fibre,Over the Counter / Cash,0
+63,5974.9036734777155,0,4G Home Broadband,Over the Counter / Cash,0
+62,6239.563755461592,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+22,3218.0501225125263,4,4G Home Broadband,Bank Direct Debit,1
+58,9845.500261874258,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+58,8783.663370705632,5,Fibre,Bank Direct Debit,0
+49,3818.0809342819844,1,Fibre,Bank Direct Debit,0
+52,2365.000978966348,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+42,8645.242671784486,2,Fibre,Over the Counter / Cash,0
+70,8372.36774995192,0,Fibre,Bank Direct Debit,0
+15,4369.225033481198,0,Fibre,Over the Counter / Cash,0
+54,11484.06740362931,4,Fibre,eZ Cash / Frimi / e-Wallet,1
+60,3086.1078636994525,3,4G Home Broadband,Over the Counter / Cash,0
+8,6039.51541094732,1,Postpaid Mobile,Bank Direct Debit,1
+53,11407.967161759789,2,Fibre,Bank Direct Debit,0
+60,5907.136827724285,0,4G Home Broadband,Bank Direct Debit,0
+5,8204.522450472898,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+68,5674.74117860934,1,4G Home Broadband,Bank Direct Debit,0
+6,4379.259624661036,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+47,11831.765303578197,2,4G Home Broadband,Over the Counter / Cash,1
+55,5798.007066307951,1,4G Home Broadband,Bank Direct Debit,0
+40,10888.041638630912,0,Fibre,Bank Direct Debit,0
+52,3914.523361856405,3,4G Home Broadband,Bank Direct Debit,0
+16,3737.5993922633747,3,4G Home Broadband,Over the Counter / Cash,1
+13,1826.9078702873694,3,Fibre,Bank Direct Debit,1
+30,8342.501666446793,5,Fibre,eZ Cash / Frimi / e-Wallet,1
+19,5369.526609099492,2,Postpaid Mobile,Over the Counter / Cash,1
+17,10575.76162331619,2,4G Home Broadband,Over the Counter / Cash,1
+63,6468.70402026135,3,4G Home Broadband,Over the Counter / Cash,0
+19,11666.030993104578,2,Postpaid Mobile,Over the Counter / Cash,1
+58,3448.017914882772,2,4G Home Broadband,Over the Counter / Cash,0
+55,10620.543263533913,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+62,9654.266954313287,6,4G Home Broadband,Over the Counter / Cash,1
+23,9594.679368762547,4,Postpaid Mobile,Bank Direct Debit,1
+9,10370.22389522732,1,4G Home Broadband,Over the Counter / Cash,1
+12,9490.751904901488,6,4G Home Broadband,Over the Counter / Cash,1
+1,8075.313377129862,1,Fibre,Over the Counter / Cash,1
+58,2878.0712156650698,3,Postpaid Mobile,Over the Counter / Cash,0
+1,1841.524884658145,1,4G Home Broadband,Over the Counter / Cash,1
+34,11168.902402064712,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+48,7974.828302467749,4,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+1,9863.641555249851,3,4G Home Broadband,Over the Counter / Cash,1
+16,6555.984690881775,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+61,2731.735984105142,2,4G Home Broadband,Bank Direct Debit,0
+64,2814.4508181267793,4,4G Home Broadband,Over the Counter / Cash,0
+63,8698.435515904199,4,Postpaid Mobile,Bank Direct Debit,0
+69,6018.211896444358,1,Fibre,Bank Direct Debit,0
+22,3605.5096303535356,2,Postpaid Mobile,Over the Counter / Cash,0
+67,6661.742740785087,2,4G Home Broadband,Bank Direct Debit,0
+26,2174.193839288908,2,Fibre,Bank Direct Debit,0
+16,7610.699720101187,2,Postpaid Mobile,Bank Direct Debit,1
+51,4324.430746568525,2,4G Home Broadband,Over the Counter / Cash,0
+57,9874.370556690475,4,Fibre,Over the Counter / Cash,0
+29,4758.800568697525,1,4G Home Broadband,Bank Direct Debit,1
+69,6279.811565358913,1,Postpaid Mobile,Over the Counter / Cash,0
+47,1622.0156690350566,1,Fibre,Over the Counter / Cash,0
+62,2260.6923218428683,2,Fibre,Bank Direct Debit,0
+69,5621.182342270191,1,Fibre,Over the Counter / Cash,0
+16,6539.357764529796,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+48,7800.215755252689,3,4G Home Broadband,Over the Counter / Cash,1
+39,4562.457076447684,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+33,8797.309804328695,1,Fibre,Bank Direct Debit,0
+23,10531.285170486648,1,Fibre,Over the Counter / Cash,1
+10,9688.435383380172,3,Fibre,Bank Direct Debit,1
+69,1915.99766615775,0,Postpaid Mobile,Bank Direct Debit,0
+34,6545.322946207204,2,Fibre,Bank Direct Debit,0
+52,2601.766873390836,3,Postpaid Mobile,Bank Direct Debit,0
+10,4041.4726665565386,0,4G Home Broadband,Bank Direct Debit,1
+19,11859.957229305037,3,Fibre,Over the Counter / Cash,1
+58,2996.2032004658886,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+1,6738.325611239238,3,4G Home Broadband,Over the Counter / Cash,1
+69,7990.6352103402505,2,4G Home Broadband,Over the Counter / Cash,0
+4,8875.882190713091,2,Postpaid Mobile,Over the Counter / Cash,1
+16,7376.3111766125985,3,Fibre,Over the Counter / Cash,1
+24,1602.5938979014284,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+2,4927.843736561915,3,4G Home Broadband,Over the Counter / Cash,1
+32,6935.97225553947,2,Fibre,Bank Direct Debit,0
+24,2422.5982410207503,0,Fibre,Over the Counter / Cash,0
+12,5181.582777696398,1,Fibre,Over the Counter / Cash,1
+50,1848.632642309349,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+35,2325.074220127718,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+33,5667.6944001167585,3,Fibre,Bank Direct Debit,1
+33,2893.515417452134,1,4G Home Broadband,Over the Counter / Cash,0
+61,7459.178906746361,2,4G Home Broadband,Over the Counter / Cash,0
+51,8739.38217594129,0,4G Home Broadband,Over the Counter / Cash,0
+43,9906.16034064537,1,Fibre,Bank Direct Debit,0
+12,3601.577564570506,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+67,3258.5671137202326,0,Fibre,Bank Direct Debit,0
+65,2597.9623235112026,4,4G Home Broadband,Over the Counter / Cash,0
+33,8182.517620208186,6,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+40,8917.995128112463,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+43,1831.6545206692413,3,4G Home Broadband,Bank Direct Debit,0
+44,11330.228585558743,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+29,2045.6984783404603,4,Fibre,eZ Cash / Frimi / e-Wallet,1
+13,7183.61152066124,2,Postpaid Mobile,Over the Counter / Cash,1
+12,8945.135454234623,3,Postpaid Mobile,Over the Counter / Cash,1
+46,10645.175799333898,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+2,8997.91278739049,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+35,9918.144872232813,2,Postpaid Mobile,Bank Direct Debit,1
+8,5064.227021699464,2,Postpaid Mobile,Bank Direct Debit,1
+26,10055.663694338378,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+34,2341.2058870390892,1,4G Home Broadband,Over the Counter / Cash,0
+7,10895.57488863554,0,Fibre,eZ Cash / Frimi / e-Wallet,1
+68,7249.71994961423,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+58,10081.626584606183,3,Fibre,Over the Counter / Cash,0
+29,6249.341987442152,1,4G Home Broadband,Over the Counter / Cash,1
+36,8257.565799563512,1,Fibre,Bank Direct Debit,0
+21,7027.2279398291885,2,Fibre,Bank Direct Debit,1
+36,9181.689978430984,5,4G Home Broadband,Bank Direct Debit,1
+10,2357.1148113211907,4,Postpaid Mobile,Bank Direct Debit,1
+24,2133.69688190092,2,Fibre,Over the Counter / Cash,0
+64,4094.5839571065376,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+49,3175.219141188478,5,Fibre,Bank Direct Debit,0
+36,10653.727449218117,1,Fibre,Bank Direct Debit,0
+24,3801.7468672594655,2,4G Home Broadband,Over the Counter / Cash,1
+23,11746.58518610088,1,4G Home Broadband,Over the Counter / Cash,1
+62,5037.4058135966225,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+37,3412.2381147313426,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+12,9791.83432499603,0,Fibre,Over the Counter / Cash,1
+55,8416.431642759198,2,Fibre,Bank Direct Debit,0
+13,6731.05502275796,1,Postpaid Mobile,Bank Direct Debit,1
+23,7331.317284845128,1,Postpaid Mobile,Bank Direct Debit,1
+30,9051.61867185877,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+17,3898.7747839786366,1,4G Home Broadband,Bank Direct Debit,1
+62,11961.506118595791,2,Postpaid Mobile,Bank Direct Debit,0
+13,11735.328202541223,2,Fibre,Over the Counter / Cash,1
+59,8328.419706642837,3,Postpaid Mobile,Bank Direct Debit,0
+19,3595.1957347560237,3,Postpaid Mobile,Over the Counter / Cash,1
+49,8642.396545528558,1,Fibre,Bank Direct Debit,0
+12,2258.0832942813463,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+61,1821.8512731609637,1,Postpaid Mobile,Bank Direct Debit,0
+19,4205.670329367744,2,4G Home Broadband,Bank Direct Debit,1
+9,6357.541045762821,2,Fibre,Over the Counter / Cash,1
+71,10616.861306787996,1,Fibre,Over the Counter / Cash,0
+28,9135.275232546235,1,4G Home Broadband,Over the Counter / Cash,1
+52,9298.418472599802,3,4G Home Broadband,Bank Direct Debit,1
+16,5967.6800117047915,1,4G Home Broadband,Bank Direct Debit,1
+69,5132.317421743111,5,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+12,5395.907011338328,2,Fibre,Bank Direct Debit,1
+25,11870.320419228607,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+52,1921.146509831066,0,4G Home Broadband,Over the Counter / Cash,0
+53,10603.83070928571,3,4G Home Broadband,Over the Counter / Cash,1
+23,7576.091790010131,0,Fibre,Over the Counter / Cash,0
+16,6105.4619014907,4,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+57,9115.205434358933,1,Postpaid Mobile,Bank Direct Debit,0
+39,6610.02388495938,2,4G Home Broadband,Over the Counter / Cash,1
+53,10670.943999857436,3,4G Home Broadband,Bank Direct Debit,1
+42,10957.369572118214,1,Fibre,Bank Direct Debit,0
+58,5928.069732171281,0,4G Home Broadband,Over the Counter / Cash,0
+39,4406.691870968041,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+14,7719.6784502303035,2,4G Home Broadband,Bank Direct Debit,1
+5,11079.815128975255,2,Postpaid Mobile,Over the Counter / Cash,1
+35,3711.952984559499,0,4G Home Broadband,Bank Direct Debit,0
+18,8041.149127416569,3,Fibre,Bank Direct Debit,1
+9,8131.382310971466,5,4G Home Broadband,Bank Direct Debit,1
+58,9197.68673536045,1,Fibre,Bank Direct Debit,0
+17,2881.4606938362276,2,Fibre,Bank Direct Debit,1
+7,9016.16212916193,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+46,11044.84146698923,6,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+13,3386.672643137541,1,4G Home Broadband,Over the Counter / Cash,1
+40,3994.2049117007155,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+42,11699.648487437216,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+9,3400.2580034496423,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+50,10471.04348038058,2,Fibre,Bank Direct Debit,0
+27,6668.917492704365,0,Postpaid Mobile,Bank Direct Debit,0
+66,4095.926281233359,4,Fibre,Over the Counter / Cash,0
+5,10642.87396336137,2,Fibre,Over the Counter / Cash,1
+29,6175.705177527988,3,4G Home Broadband,Over the Counter / Cash,1
+37,6905.582216261747,1,Fibre,Bank Direct Debit,0
+38,5271.95037869754,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+8,7725.983940066738,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+65,3217.000662142739,2,4G Home Broadband,Bank Direct Debit,0
+17,5606.356134843488,2,4G Home Broadband,Over the Counter / Cash,1
+71,11678.829384520519,0,Postpaid Mobile,Over the Counter / Cash,0
+45,4210.401043361839,1,4G Home Broadband,Over the Counter / Cash,0
+4,8395.734977683569,2,Postpaid Mobile,Bank Direct Debit,1
+36,4914.495674359296,0,Fibre,Over the Counter / Cash,0
+70,9621.467819709307,4,4G Home Broadband,Over the Counter / Cash,0
+31,2874.173437542673,5,Postpaid Mobile,Bank Direct Debit,1
+19,11683.12097332472,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+61,6264.790184528212,0,4G Home Broadband,Bank Direct Debit,0
+54,3978.5298651378716,6,Fibre,Bank Direct Debit,0
+39,2271.715846965133,0,Fibre,Bank Direct Debit,0
+19,3282.4580034191777,1,4G Home Broadband,Bank Direct Debit,1
+39,6957.626459838186,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+67,5038.533352528506,3,Postpaid Mobile,Over the Counter / Cash,0
+45,10203.2753417674,2,Fibre,Bank Direct Debit,0
+13,6024.318998448963,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+58,4111.499862170114,5,Postpaid Mobile,Over the Counter / Cash,0
+20,7980.022359342315,5,Fibre,Over the Counter / Cash,1
+61,8921.16077729718,2,Fibre,Over the Counter / Cash,0
+39,3253.9400329599735,3,Postpaid Mobile,Bank Direct Debit,0
+1,3260.0017710273355,6,Postpaid Mobile,Bank Direct Debit,1
+3,1885.0499828022012,3,4G Home Broadband,Over the Counter / Cash,1
+62,9232.221158189226,2,Fibre,Over the Counter / Cash,0
+63,8469.947540028952,3,4G Home Broadband,Over the Counter / Cash,0
+25,6483.624195373046,1,4G Home Broadband,Over the Counter / Cash,1
+56,10363.78971417657,1,Fibre,Over the Counter / Cash,0
+33,9959.536605975558,4,4G Home Broadband,Over the Counter / Cash,1
+38,7646.220826165898,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+6,10616.848445389216,6,Fibre,Over the Counter / Cash,1
+58,3661.3327053860667,2,Fibre,Bank Direct Debit,0
+44,2675.156003676143,3,Fibre,Bank Direct Debit,0
+45,4332.370920928392,2,Fibre,Bank Direct Debit,0
+32,2099.411988937806,0,4G Home Broadband,Over the Counter / Cash,0
+45,7077.280044010836,1,Fibre,Bank Direct Debit,0
+61,11334.359769097096,4,Fibre,eZ Cash / Frimi / e-Wallet,0
+47,1913.1071770193512,3,Fibre,Over the Counter / Cash,0
+21,2782.1540971052814,3,Postpaid Mobile,Bank Direct Debit,1
+36,6248.089796976071,5,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+19,11305.687684043001,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+20,4819.63910225588,4,4G Home Broadband,Bank Direct Debit,1
+57,6825.96549122812,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+18,1936.515020029117,1,Fibre,Bank Direct Debit,0
+47,3057.603610101933,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+49,11859.616291067892,0,4G Home Broadband,Over the Counter / Cash,0
+14,11633.746312578478,1,4G Home Broadband,Over the Counter / Cash,1
+15,1551.869799811301,4,Fibre,Over the Counter / Cash,1
+31,11494.023746944009,2,4G Home Broadband,Over the Counter / Cash,1
+1,8210.759347062754,1,Fibre,Over the Counter / Cash,1
+54,10613.142092460232,1,4G Home Broadband,Bank Direct Debit,0
+3,6274.76848415552,1,4G Home Broadband,Over the Counter / Cash,1
+16,6913.758300082128,2,Fibre,Over the Counter / Cash,1
+57,6632.889092697662,2,Postpaid Mobile,Over the Counter / Cash,0
+12,8502.074704234095,0,Fibre,Over the Counter / Cash,1
+16,2966.3381749412856,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+24,1814.7226936631184,1,4G Home Broadband,Over the Counter / Cash,1
+28,4733.264386707504,2,Fibre,Over the Counter / Cash,0
+8,8899.14800873479,2,Fibre,Bank Direct Debit,1
+36,3619.461247290958,0,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+8,8571.040549911631,2,Fibre,Bank Direct Debit,1
+58,11684.076484126339,0,Fibre,Over the Counter / Cash,0
+60,2485.957515788893,3,Fibre,Bank Direct Debit,0
+50,8562.322241363825,4,4G Home Broadband,Bank Direct Debit,1
+28,6159.377302697997,4,4G Home Broadband,Over the Counter / Cash,1
+41,10615.493670963806,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+64,3360.072789197552,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+27,8772.572498374728,2,Fibre,Bank Direct Debit,1
+63,10300.210541305158,0,Fibre,Over the Counter / Cash,0
+17,11418.449304477244,2,4G Home Broadband,Bank Direct Debit,1
+33,8674.104297041282,3,4G Home Broadband,Bank Direct Debit,1
+29,6720.335022088487,1,Fibre,Bank Direct Debit,0
+13,7987.396022112745,2,Fibre,Over the Counter / Cash,1
+46,10623.50233702654,1,Fibre,Over the Counter / Cash,0
+35,7491.402339707712,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+6,1819.064126816787,2,Postpaid Mobile,Over the Counter / Cash,1
+69,11274.961302823267,3,Postpaid Mobile,Bank Direct Debit,0
+47,8740.030885831391,2,Fibre,Bank Direct Debit,0
+25,8603.390550661088,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+66,3764.58910017603,3,Fibre,Over the Counter / Cash,0
+10,8418.2974374429,2,Fibre,Bank Direct Debit,1
+56,5635.576259368664,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+30,8337.946258935666,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+5,2619.2268182339026,4,Postpaid Mobile,Bank Direct Debit,1
+33,8407.375698331878,2,Postpaid Mobile,Bank Direct Debit,1
+65,11993.844120591999,2,Fibre,Over the Counter / Cash,0
+18,2006.2264080358382,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+49,11760.328934323832,2,Fibre,Bank Direct Debit,0
+11,5772.533587590141,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+26,10642.911228541221,2,4G Home Broadband,Over the Counter / Cash,1
+63,9715.04758261187,4,Fibre,Bank Direct Debit,0
+59,7453.670740360012,0,4G Home Broadband,Over the Counter / Cash,0
+27,9253.716697138929,1,Fibre,eZ Cash / Frimi / e-Wallet,1
+49,10724.413393664152,4,4G Home Broadband,Over the Counter / Cash,1
+33,5743.473377335847,0,4G Home Broadband,Over the Counter / Cash,0
+1,4933.848196414006,0,Fibre,eZ Cash / Frimi / e-Wallet,1
+21,8509.73054841764,3,Postpaid Mobile,Over the Counter / Cash,1
+55,9982.382390383214,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+6,9503.993915154464,1,4G Home Broadband,Bank Direct Debit,1
+69,9877.043313015662,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+5,6073.624805535796,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+3,10087.259269837727,2,Postpaid Mobile,Bank Direct Debit,1
+53,2762.1950813913886,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+23,7217.13552858892,1,4G Home Broadband,Bank Direct Debit,1
+53,1560.4659352302765,2,4G Home Broadband,Bank Direct Debit,0
+37,4908.151213952839,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+17,5347.846116149678,0,Fibre,Over the Counter / Cash,0
+1,5659.813261897181,3,4G Home Broadband,Over the Counter / Cash,1
+51,8802.405670243552,1,4G Home Broadband,Bank Direct Debit,0
+45,5579.86006333863,4,Fibre,Over the Counter / Cash,0
+4,6211.283037536572,5,4G Home Broadband,Over the Counter / Cash,1
+62,3994.213374180438,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+65,5419.143812108071,1,4G Home Broadband,Bank Direct Debit,0
+32,3886.3310862630906,4,Postpaid Mobile,Bank Direct Debit,1
+34,2268.5571995686582,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+39,7836.210230504468,1,4G Home Broadband,Over the Counter / Cash,1
+26,8516.23438482767,3,4G Home Broadband,Bank Direct Debit,1
+34,8004.648633100952,2,Fibre,Over the Counter / Cash,0
+54,6366.687459906009,0,Fibre,Bank Direct Debit,0
+3,5487.750691881913,1,4G Home Broadband,Bank Direct Debit,1
+50,10565.003320504165,2,Fibre,Bank Direct Debit,0
+12,6950.358743930289,1,Fibre,Bank Direct Debit,1
+65,6531.409715112175,4,4G Home Broadband,Over the Counter / Cash,0
+54,1769.2416909675746,3,Fibre,Over the Counter / Cash,0
+5,5083.102190074642,0,Fibre,Over the Counter / Cash,1
+57,5492.053997251499,2,4G Home Broadband,Over the Counter / Cash,0
+17,5687.6391994174555,4,Fibre,eZ Cash / Frimi / e-Wallet,1
+47,7591.809876886989,2,Postpaid Mobile,Bank Direct Debit,0
+23,7102.826740632224,1,Postpaid Mobile,Bank Direct Debit,0
+14,7883.003474331169,2,4G Home Broadband,Bank Direct Debit,1
+66,9531.274246192348,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+51,10036.350256518981,2,4G Home Broadband,Over the Counter / Cash,1
+38,9040.29230037819,1,Postpaid Mobile,Bank Direct Debit,0
+64,11532.998807526814,0,4G Home Broadband,Over the Counter / Cash,0
+38,1691.4421181017972,3,Fibre,Over the Counter / Cash,0
+50,3555.668849677234,6,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+30,1579.4101872704923,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+51,8298.484498623331,2,4G Home Broadband,Over the Counter / Cash,0
+63,10929.320763974862,2,4G Home Broadband,Bank Direct Debit,0
+52,4056.5641140511425,2,4G Home Broadband,Bank Direct Debit,0
+38,11233.86272036122,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+30,2132.807598040389,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+51,11311.5782814579,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+5,5192.038216016161,4,Fibre,eZ Cash / Frimi / e-Wallet,1
+29,2564.918698716773,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+4,6601.6534714564195,0,Fibre,eZ Cash / Frimi / e-Wallet,1
+10,4196.1539610653335,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+56,4491.16547060019,2,Fibre,Bank Direct Debit,0
+17,4726.544631726008,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+17,9931.771927242966,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+69,7161.193405090172,2,Fibre,Bank Direct Debit,0
+34,4768.730841138038,0,Fibre,Bank Direct Debit,0
+6,7908.504724764643,3,Fibre,Over the Counter / Cash,1
+53,9019.582079343532,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+66,4362.552007702105,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+43,5842.265566016191,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+23,2779.8039800379493,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+55,3402.0681701141434,2,4G Home Broadband,Over the Counter / Cash,0
+16,8651.73746663232,4,Postpaid Mobile,Bank Direct Debit,1
+8,3405.102650804083,1,Postpaid Mobile,Bank Direct Debit,1
+4,7014.215528504132,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+4,8944.985748085543,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+56,2622.2076924948105,4,Fibre,eZ Cash / Frimi / e-Wallet,0
+25,7456.778306103487,0,Fibre,Over the Counter / Cash,0
+67,4193.90922886432,2,Fibre,Over the Counter / Cash,0
+67,11610.732189994587,1,Fibre,Bank Direct Debit,0
+27,6577.229290559209,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+32,9962.92177263916,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+50,7277.378692640748,0,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+61,1955.831594975601,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+51,8148.089443737234,2,Postpaid Mobile,Over the Counter / Cash,0
+19,11489.735093169898,3,4G Home Broadband,Bank Direct Debit,1
+21,7816.9241115364775,5,Fibre,Bank Direct Debit,1
+5,10101.483023981296,3,4G Home Broadband,Over the Counter / Cash,1
+42,10784.167865158282,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+61,3894.837605463791,4,4G Home Broadband,Bank Direct Debit,0
+22,3726.47081903638,3,Fibre,Bank Direct Debit,1
+21,7915.300382935413,2,Postpaid Mobile,Over the Counter / Cash,1
+70,5815.7989329704,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+1,10318.543680100564,1,Fibre,Bank Direct Debit,1
+5,10950.242795679118,4,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+12,5210.92448267854,5,Fibre,Bank Direct Debit,1
+46,3987.1408692320615,1,4G Home Broadband,Over the Counter / Cash,0
+34,9695.51791006055,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+49,4385.463373255428,2,Postpaid Mobile,Over the Counter / Cash,0
+45,10137.450344393623,1,Postpaid Mobile,Bank Direct Debit,0
+27,5949.251663312009,2,Postpaid Mobile,Over the Counter / Cash,1
+26,8509.27394256044,1,Fibre,Over the Counter / Cash,0
+47,2503.120795264016,2,Postpaid Mobile,Over the Counter / Cash,0
+56,8050.522909104016,1,4G Home Broadband,Bank Direct Debit,0
+63,6243.560626740906,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+48,7659.3888633424785,2,Fibre,Over the Counter / Cash,0
+61,3264.149181321066,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+26,9237.174321913913,2,Postpaid Mobile,Bank Direct Debit,1
+36,10559.3693142039,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+1,3775.7679009531444,0,4G Home Broadband,Over the Counter / Cash,1
+8,2505.002832961698,0,Fibre,Over the Counter / Cash,0
+52,1748.2051534865323,2,Fibre,Over the Counter / Cash,0
+47,8240.700754654292,1,Postpaid Mobile,Over the Counter / Cash,0
+56,7874.487378932198,2,4G Home Broadband,Over the Counter / Cash,0
+14,7240.322833497735,3,4G Home Broadband,Over the Counter / Cash,1
+28,3935.444509217742,2,Fibre,Bank Direct Debit,0
+2,5604.512957007904,3,4G Home Broadband,Bank Direct Debit,1
+26,7742.001519454817,3,4G Home Broadband,Bank Direct Debit,1
+14,6716.052018021279,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+59,11871.747962256317,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+56,2932.6174018456977,0,Fibre,Bank Direct Debit,0
+7,8799.017817499735,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+3,5745.347065095068,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+23,5996.095956718955,2,Postpaid Mobile,Over the Counter / Cash,1
+18,9034.77653941085,3,Fibre,Over the Counter / Cash,1
+38,8770.57958890588,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+15,11908.187933872978,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+64,2848.140039268315,0,4G Home Broadband,Bank Direct Debit,0
+28,2593.1513185337462,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+39,9105.557579851782,2,4G Home Broadband,Over the Counter / Cash,1
+57,7573.062628567295,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+17,4378.686998877962,1,Fibre,Bank Direct Debit,0
+44,2333.9033743843593,1,Fibre,Over the Counter / Cash,0
+25,2399.4116207625207,4,4G Home Broadband,Over the Counter / Cash,1
+17,10889.004183973242,1,Fibre,Over the Counter / Cash,1
+13,3514.6069095468006,2,4G Home Broadband,Over the Counter / Cash,1
+25,4895.401402212969,0,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+68,3879.892223383374,4,Postpaid Mobile,Bank Direct Debit,0
+10,5227.461211235342,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+67,2228.9503488339806,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+18,6950.127804536839,2,Fibre,Over the Counter / Cash,1
+34,2209.9319177182565,3,4G Home Broadband,Bank Direct Debit,1
+8,9903.743332134796,3,Postpaid Mobile,Over the Counter / Cash,1
+40,3953.9768600595467,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+42,7170.125103347361,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+41,10740.830419395312,3,Postpaid Mobile,Over the Counter / Cash,1
+6,8334.212374995539,0,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+52,7096.056758789021,4,Fibre,eZ Cash / Frimi / e-Wallet,0
+26,4905.5044077114435,4,4G Home Broadband,Over the Counter / Cash,1
+64,4996.520087111078,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+59,8529.613029580996,2,Fibre,Bank Direct Debit,0
+56,11938.463292822258,2,Postpaid Mobile,Over the Counter / Cash,0
+59,8449.311493418474,0,Postpaid Mobile,Bank Direct Debit,0
+70,7356.725882385262,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+33,9171.830357512084,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+53,6384.658928979041,3,Postpaid Mobile,Over the Counter / Cash,0
+22,2131.494597308245,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+21,7404.116566718053,1,Fibre,Over the Counter / Cash,1
+70,11555.065487306492,3,4G Home Broadband,Over the Counter / Cash,0
+70,3340.6808947554264,3,Fibre,Over the Counter / Cash,0
+4,8745.05135361699,4,4G Home Broadband,Over the Counter / Cash,1
+62,3609.803730920093,0,4G Home Broadband,Over the Counter / Cash,0
+62,7126.190686967353,3,Fibre,Bank Direct Debit,0
+24,2515.102721290556,1,Fibre,Over the Counter / Cash,0
+55,6228.894830710944,2,Fibre,Bank Direct Debit,0
+9,9439.714953400084,5,Fibre,eZ Cash / Frimi / e-Wallet,1
+3,5149.501004509311,0,4G Home Broadband,Over the Counter / Cash,1
+31,8481.57310711579,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+40,9852.224588292156,3,Fibre,Over the Counter / Cash,1
+36,11235.367104534253,3,Fibre,Bank Direct Debit,1
+24,3963.741859482262,1,4G Home Broadband,Bank Direct Debit,1
+6,5692.8171159977355,0,Postpaid Mobile,Bank Direct Debit,1
+66,3100.3681399693833,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+4,11921.07677266294,3,Fibre,Over the Counter / Cash,1
+6,11233.510163205101,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+51,7169.549867945876,2,Fibre,Bank Direct Debit,0
+62,10341.349590952423,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+57,6970.058761356443,4,4G Home Broadband,Bank Direct Debit,1
+66,8047.649724028977,0,4G Home Broadband,Bank Direct Debit,0
+8,2435.8065372181745,2,4G Home Broadband,Bank Direct Debit,1
+26,9430.339415216484,1,4G Home Broadband,Over the Counter / Cash,1
+51,2840.9915781699656,0,4G Home Broadband,Over the Counter / Cash,0
+45,10173.710117651548,1,Fibre,Bank Direct Debit,0
+44,9711.294920539052,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+5,8941.819326301253,5,Fibre,eZ Cash / Frimi / e-Wallet,1
+70,1879.6839955100022,1,Fibre,Over the Counter / Cash,0
+26,4682.847737425951,3,4G Home Broadband,Bank Direct Debit,1
+68,4262.68198406385,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+19,5281.43227845095,5,Postpaid Mobile,Bank Direct Debit,1
+20,2420.2488410203046,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+12,11338.057141826159,0,Fibre,Over the Counter / Cash,1
+47,7314.923527479951,1,Fibre,Bank Direct Debit,0
+1,4708.005261909248,2,Postpaid Mobile,Bank Direct Debit,1
+14,5668.305929279976,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+64,6195.626675300774,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+38,7806.240500286482,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+37,6914.633990813227,0,4G Home Broadband,Bank Direct Debit,0
+11,11153.615718751382,0,Postpaid Mobile,Over the Counter / Cash,1
+3,6718.116570511218,2,Fibre,Over the Counter / Cash,1
+33,11917.659155644784,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+6,10439.962056323506,2,Postpaid Mobile,Over the Counter / Cash,1
+50,3689.360400752026,4,Fibre,eZ Cash / Frimi / e-Wallet,0
+10,11271.249753761122,3,4G Home Broadband,Over the Counter / Cash,1
+5,2721.847177797499,1,Fibre,Bank Direct Debit,1
+23,10083.22193915751,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+10,5496.544581504091,1,Fibre,Over the Counter / Cash,1
+44,10718.73036467323,3,4G Home Broadband,Bank Direct Debit,1
+2,10614.595246128229,3,Fibre,Over the Counter / Cash,1
+13,9962.216701235022,2,4G Home Broadband,Bank Direct Debit,1
+40,9795.319581224145,3,Fibre,Bank Direct Debit,1
+2,4699.130960529428,2,Fibre,Over the Counter / Cash,1
+65,2349.6524720381476,3,4G Home Broadband,Over the Counter / Cash,0
+63,5731.291877034195,1,Postpaid Mobile,Bank Direct Debit,0
+17,3322.007407358341,3,Fibre,Bank Direct Debit,1
+9,8796.986433475848,2,Fibre,Bank Direct Debit,1
+15,5134.047128646748,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+24,11743.907109029107,3,4G Home Broadband,Bank Direct Debit,1
+38,8230.206812125987,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+35,10136.04591816079,1,Fibre,Bank Direct Debit,0
+49,2891.509063789408,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+69,10551.152063862537,4,Fibre,Bank Direct Debit,0
+62,11188.95050039064,2,Fibre,Bank Direct Debit,0
+60,6614.150147598827,3,4G Home Broadband,Bank Direct Debit,0
+50,7865.655846385263,1,4G Home Broadband,Over the Counter / Cash,0
+9,9530.502909481453,2,4G Home Broadband,Over the Counter / Cash,1
+34,3335.8055862343317,4,Fibre,Bank Direct Debit,1
+35,6776.943802866145,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+1,5685.9617916092875,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+40,3036.926917703616,3,Postpaid Mobile,Bank Direct Debit,0
+64,5359.11143406108,0,Fibre,Over the Counter / Cash,0
+22,2215.8092485476827,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+60,1771.0250229696135,5,Fibre,Over the Counter / Cash,0
+64,2919.246036125639,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+11,11612.708671686325,2,Fibre,Bank Direct Debit,1
+14,7270.060126897678,2,Postpaid Mobile,Over the Counter / Cash,1
+60,11641.13269210881,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+30,6041.227722466386,3,Postpaid Mobile,Bank Direct Debit,1
+35,4774.069397395226,1,Fibre,Bank Direct Debit,0
+37,6814.489559822563,4,4G Home Broadband,Bank Direct Debit,1
+5,6114.872730645557,5,Postpaid Mobile,Over the Counter / Cash,1
+26,2609.479184748311,3,Fibre,Over the Counter / Cash,1
+62,8228.676304247165,2,Postpaid Mobile,Bank Direct Debit,0
+4,3768.400916350796,0,4G Home Broadband,Over the Counter / Cash,1
+42,8005.673526427211,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+18,8327.111470180611,1,4G Home Broadband,Bank Direct Debit,1
+40,3096.2609578508054,1,Fibre,Bank Direct Debit,0
+39,2144.171084662016,1,Fibre,Over the Counter / Cash,0
+14,9697.996653718617,1,Fibre,Bank Direct Debit,1
+32,6327.904449577862,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+51,2110.719852807496,2,Fibre,Over the Counter / Cash,0
+38,11946.096330282555,1,Fibre,Over the Counter / Cash,0
+23,2106.6958904618496,0,4G Home Broadband,Bank Direct Debit,0
+63,8797.86990301481,5,4G Home Broadband,Bank Direct Debit,1
+15,11828.628715265842,0,Fibre,Bank Direct Debit,1
+25,4011.391094267219,0,Fibre,Over the Counter / Cash,0
+17,2993.61837121556,1,4G Home Broadband,Bank Direct Debit,1
+66,2774.5418639355034,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+53,4684.389049459753,3,Fibre,Bank Direct Debit,0
+51,2560.98101561179,1,Fibre,Bank Direct Debit,0
+39,8767.694087788386,0,Postpaid Mobile,Over the Counter / Cash,0
+51,2154.0638803656584,1,Postpaid Mobile,Bank Direct Debit,0
+70,6848.932345572792,4,Fibre,Over the Counter / Cash,0
+6,11965.316965456257,2,4G Home Broadband,Bank Direct Debit,1
+67,10046.687829813198,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+7,7959.804101425614,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+51,4715.663018259423,1,4G Home Broadband,Over the Counter / Cash,0
+42,8050.906281062204,1,4G Home Broadband,Over the Counter / Cash,1
+64,7033.935371072342,0,Fibre,Bank Direct Debit,0
+15,5973.875530848901,3,Fibre,Bank Direct Debit,1
+29,2872.4589557720947,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+33,10809.3442600249,0,Postpaid Mobile,Bank Direct Debit,0
+27,6222.738812623887,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+36,3543.536374118033,3,Postpaid Mobile,Over the Counter / Cash,0
+29,5361.473184211542,1,Postpaid Mobile,Bank Direct Debit,0
+38,5848.362401553733,5,Fibre,Over the Counter / Cash,1
+57,10189.14790345218,3,4G Home Broadband,Bank Direct Debit,1
+27,9202.950995894722,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+55,9577.701383234067,4,Postpaid Mobile,Over the Counter / Cash,0
+33,1615.8282765007957,1,Postpaid Mobile,Over the Counter / Cash,0
+68,5869.616980887496,2,4G Home Broadband,Bank Direct Debit,0
+66,6554.113592170898,2,Fibre,Over the Counter / Cash,0
+10,1701.5189066420953,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+5,4228.03869182286,2,Fibre,Over the Counter / Cash,1
+38,9483.043142782419,3,4G Home Broadband,Over the Counter / Cash,1
+13,2939.65191015449,3,Postpaid Mobile,Bank Direct Debit,1
+31,7120.756380252213,2,Fibre,Over the Counter / Cash,0
+47,3759.619656180994,3,4G Home Broadband,Bank Direct Debit,0
+52,1627.2681337608794,1,4G Home Broadband,Bank Direct Debit,0
+56,4032.6153047951857,3,4G Home Broadband,Over the Counter / Cash,0
+15,11746.674426555564,5,Fibre,eZ Cash / Frimi / e-Wallet,1
+29,9916.139674771392,0,4G Home Broadband,Bank Direct Debit,1
+8,11575.55476537085,1,Postpaid Mobile,Over the Counter / Cash,1
+5,6622.467461226805,2,Postpaid Mobile,Bank Direct Debit,1
+29,2652.230086113787,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+47,7253.574634223776,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+68,6270.96201287959,0,4G Home Broadband,Bank Direct Debit,0
+45,10365.749368765968,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+2,2529.8670982345684,1,Fibre,Over the Counter / Cash,1
+27,6626.531938728671,3,Fibre,Over the Counter / Cash,1
+36,3075.5109792868348,2,Postpaid Mobile,Bank Direct Debit,0
+36,4909.09723234563,5,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+26,9242.249312571897,3,4G Home Broadband,Over the Counter / Cash,1
+43,6498.190358372049,1,Fibre,Over the Counter / Cash,0
+27,5446.826994030578,1,4G Home Broadband,Over the Counter / Cash,1
+69,5642.000924985371,3,Fibre,Bank Direct Debit,0
+20,6324.1910682628595,0,Fibre,Bank Direct Debit,0
+11,9742.673710289097,0,4G Home Broadband,Over the Counter / Cash,1
+38,10866.889233872462,1,Fibre,Over the Counter / Cash,0
+6,11531.014208291246,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+23,9762.485555680598,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+47,4811.772405354133,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+46,8725.414413908693,2,4G Home Broadband,Bank Direct Debit,1
+12,6094.832802581615,6,4G Home Broadband,Over the Counter / Cash,1
+13,4174.041531483537,1,Fibre,Bank Direct Debit,1
+62,10329.151583972187,2,Fibre,Over the Counter / Cash,0
+60,1903.4766641044125,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+43,10968.500917421947,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+68,6345.513378559709,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+5,8190.6155064869445,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+37,8423.216183160719,4,Fibre,Over the Counter / Cash,1
+31,10898.736277418631,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+9,8185.031662755677,3,4G Home Broadband,Over the Counter / Cash,1
+51,7946.302639980649,2,Postpaid Mobile,Over the Counter / Cash,0
+29,2199.8464258872445,2,Postpaid Mobile,Bank Direct Debit,0
+40,6943.284230424642,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+41,3076.7745085789375,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+11,9243.054571575598,3,Fibre,Bank Direct Debit,1
+23,6878.330168533082,2,Postpaid Mobile,Over the Counter / Cash,1
+1,8642.39168168771,0,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,1
+46,1937.5654563250348,1,Fibre,Over the Counter / Cash,0
+21,2390.316168480934,1,Fibre,Bank Direct Debit,0
+36,9021.395574658163,5,Fibre,Over the Counter / Cash,1
+54,2256.8855279860704,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+57,2248.195641535215,3,Postpaid Mobile,Over the Counter / Cash,0
+1,1627.1389899663181,2,Fibre,Over the Counter / Cash,1
+63,11543.264682144541,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+54,9243.837774319574,4,Fibre,eZ Cash / Frimi / e-Wallet,0
+55,5209.139789271674,3,Postpaid Mobile,Over the Counter / Cash,0
+40,4613.62360352038,3,4G Home Broadband,Over the Counter / Cash,1
+15,5171.88391233142,2,4G Home Broadband,Bank Direct Debit,1
+21,9633.86207740241,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+47,8444.391416239352,2,Postpaid Mobile,Over the Counter / Cash,0
+53,3444.5534626084136,2,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+9,3328.1480210078857,5,Fibre,Bank Direct Debit,1
+52,2533.1543219906716,4,Fibre,Over the Counter / Cash,0
+57,8433.178556864052,1,Fibre,Over the Counter / Cash,0
+26,9525.912953328228,2,Fibre,Over the Counter / Cash,1
+41,4282.987497412542,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+35,1719.9220908245845,2,Postpaid Mobile,Bank Direct Debit,0
+63,2362.8025085024874,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+25,11662.53036587282,0,Postpaid Mobile,Over the Counter / Cash,1
+38,4602.170163512913,3,4G Home Broadband,Bank Direct Debit,1
+2,9576.843052300403,2,4G Home Broadband,Over the Counter / Cash,1
+7,8058.96747296977,3,4G Home Broadband,Over the Counter / Cash,1
+34,5510.366216355407,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+17,3659.7162530533287,3,Fibre,Over the Counter / Cash,1
+43,2774.5573906737673,2,4G Home Broadband,Bank Direct Debit,0
+59,7957.6361644081,2,Fibre,Over the Counter / Cash,0
+51,9633.654696696773,2,Fibre,Over the Counter / Cash,0
+54,8260.99466218187,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+24,7068.1723991161625,2,Postpaid Mobile,Bank Direct Debit,1
+25,1940.4878460321806,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+71,11669.13216474103,1,Postpaid Mobile,Over the Counter / Cash,0
+52,9886.499012373033,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+70,4574.63138536013,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+33,11789.688458267932,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+49,7819.756691181382,3,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+29,7615.437911176088,2,4G Home Broadband,Over the Counter / Cash,1
+63,9354.768384010087,2,4G Home Broadband,Over the Counter / Cash,0
+22,10023.582774946444,0,4G Home Broadband,Bank Direct Debit,1
+26,8393.025376980779,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+28,2845.0053368451004,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+49,5051.808812942233,2,Fibre,Bank Direct Debit,0
+71,11244.878223423522,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+49,3858.463924360445,1,Postpaid Mobile,Bank Direct Debit,0
+20,5407.75375029389,5,Fibre,Over the Counter / Cash,1
+63,6036.807270914058,1,Fibre,Bank Direct Debit,0
+61,6113.752391791748,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+49,7935.865616192518,2,Fibre,Bank Direct Debit,0
+71,11402.29629631943,1,4G Home Broadband,Over the Counter / Cash,0
+1,4027.273474241302,3,Fibre,eZ Cash / Frimi / e-Wallet,1
+13,2775.76445115964,1,Postpaid Mobile,Over the Counter / Cash,0
+51,3573.4401435293416,1,Postpaid Mobile,Over the Counter / Cash,0
+56,10812.711452197329,1,Postpaid Mobile,Bank Direct Debit,0
+62,8281.013532879664,1,4G Home Broadband,Over the Counter / Cash,0
+32,4502.021287011181,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+30,10067.442859170482,0,Fibre,Over the Counter / Cash,0
+29,10544.384961816078,1,Fibre,Over the Counter / Cash,1
+49,10388.40055624792,1,Fibre,Bank Direct Debit,0
+45,11148.728603215322,1,4G Home Broadband,Over the Counter / Cash,1
+30,4148.530711820296,1,4G Home Broadband,Bank Direct Debit,1
+16,9427.940251835922,1,4G Home Broadband,Bank Direct Debit,1
+40,6335.66472137847,0,Fibre,eZ Cash / Frimi / e-Wallet,0
+19,10340.984805345646,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+18,9149.152110196937,0,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+1,9652.698188247108,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+47,8389.699295651251,1,4G Home Broadband,Bank Direct Debit,0
+66,3363.002079431922,6,Fibre,Over the Counter / Cash,0
+38,7222.782648417852,1,Postpaid Mobile,eZ Cash / Frimi / e-Wallet,0
+51,11839.032265007336,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+63,11342.574698219749,1,Fibre,eZ Cash / Frimi / e-Wallet,0
+4,1953.3242258686225,1,Fibre,Over the Counter / Cash,1
+1,3230.55556515909,4,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+8,2883.1521212729003,1,Postpaid Mobile,Over the Counter / Cash,1
+29,9122.789054845602,2,4G Home Broadband,Bank Direct Debit,1
+55,10086.745963497924,3,Fibre,Bank Direct Debit,0
+3,3741.869346262055,0,Postpaid Mobile,Bank Direct Debit,1
+32,6811.453275994205,1,4G Home Broadband,Over the Counter / Cash,1
+10,10327.3817941176,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+34,9194.41622004563,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+55,7193.490657664407,3,Fibre,eZ Cash / Frimi / e-Wallet,0
+32,7698.650749817115,1,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+50,6837.785742620939,2,Fibre,eZ Cash / Frimi / e-Wallet,0
+7,4624.258738847616,3,Postpaid Mobile,Over the Counter / Cash,1
+8,7432.7309250196695,1,4G Home Broadband,Bank Direct Debit,1
+65,8733.295671525953,2,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+57,10669.890616538481,3,4G Home Broadband,Bank Direct Debit,1
+67,8181.059216782105,1,Postpaid Mobile,Over the Counter / Cash,0
+59,9491.776138953159,2,Postpaid Mobile,Over the Counter / Cash,0
+54,3180.752167023016,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,0
+67,6346.353481407794,2,4G Home Broadband,Over the Counter / Cash,0
+51,1597.9820081844796,0,4G Home Broadband,Bank Direct Debit,0
+8,4090.1280774770416,3,4G Home Broadband,eZ Cash / Frimi / e-Wallet,1
+34,9127.848008686551,2,Fibre,eZ Cash / Frimi / e-Wallet,1
+35,11914.004489168316,2,4G Home Broadband,Bank Direct Debit,1
+32,2541.370045665767,0,Fibre,eZ Cash / Frimi / e-Wallet,0
